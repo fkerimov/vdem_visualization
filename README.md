@@ -1,5 +1,9 @@
 # vdem_visualization
 
+## Project Overview:
+The primary aim is to parse and prepare V-Dem data for interactive visualization on Tableau for open use in any classroom.  
+
+
 ## V-Dem Dataset:
 Coppedge, Michael, John Gerring, Carl Henrik Knutsen, Staffan I. Lindberg, Jan Teorell, Nazifa
 Alizada, David Altman, Michael Bernhard, Agnes Cornell, M. Steven Fish, Lisa Gastaldi,
