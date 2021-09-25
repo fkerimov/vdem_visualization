@@ -7,6 +7,5 @@ Haakon Gjerløw, Adam Glynn, Allen Hicken, Garry Hindle, Nina Ilchenko, Joshua K
 Anna L¨uhrmann, Seraphine F. Maerz, Kyle L. Marquardt, Kelly McMann, Valeriya Mechkova,
 Juraj Medzihorsky, Pamela Paxton, Daniel Pemstein, Josefine Pernes, Johannes von R¨omer,
 Brigitte Seim, Rachel Sigman, Svend-Erik Skaaning, Jeffrey Staton, Aksel Sundstr¨om, Eitan
-Tzelgov, Yi-ting Wang, Tore Wig, Steven Wilson and Daniel Ziblatt. 2021. ”V-Dem [Country–
-Year/Country–Date] Dataset v11.1” Varieties of Democracy (V-Dem) Project. https://doi.
-org/10.23696/vdemds21.
+Tzelgov, Yi-ting Wang, Tore Wig, Steven Wilson and Daniel Ziblatt. 2021. ”V-Dem Dataset v11.1” Varieties of Democracy (V-Dem) Project.
+[Dataset link](https://doi.org/10.23696/vdemds21)
